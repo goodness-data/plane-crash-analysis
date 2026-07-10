@@ -19,10 +19,23 @@ This project analyzes historical plane crash data using Microsoft Excel to ident
 - Data Cleaning
 - Dashboard Design
 
-## 📊 Project Highlights
+## 📊 Key Findings
 
-This analysis explored aviation accident data to identify important trends and summarize key findings through data visualization.
+- North America recorded the highest number of plane crashes.
+- The United States had the highest number of recorded plane crashes among all countries.
+- December experienced the highest number of plane crashes.
+- Scheduled Revenue Flights recorded the highest number of crashes by flight phase.
+- Airports (less than 10 km from the airport) were the most common crash terrain.
+- The Royal Air Force (RAF) recorded the highest number of crashes among the top airline operators analyzed.
+- The Douglas C-47 Skytrain (DC-3) had the highest number of crashes among the aircraft types analyzed.
+- Non-survivors slightly exceeded survivors in the recorded accidents.
 
+## 💡 Recommendations
+
+- Focus safety audits and inspections on North America (especially the United States) and Europe (especially the United Kingdom).
+- Increase collaboration with aviation authorities to strengthen compliance with safety standards.
+- Enhance pilot training and operational planning during December when crash frequency is highest.
+  
 ## 👩🏽‍💻 My Contribution
 
 This project was completed collaboratively as part of the **MicroTech Africa Data Analysis Track**.
