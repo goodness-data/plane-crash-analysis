@@ -36,4 +36,4 @@ My contributions included:
 
 ## 🙏 Acknowledgement
 
-This was a collaborative learning project completed with members of my data analysis cohort. I appreciate the teamwork and shared learning experience#
+This was a collaborative learning project completed with members of my data analysis cohort. I appreciate the teamwork and shared learning experience
