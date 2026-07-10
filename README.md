@@ -1,5 +1,4 @@
-# ✈️ Plane Crash Analysis
-
+# ✈️ world-aviation-association-analysis
 ## 📖 Project Overview
 
 This project analyzes historical plane crash data using Microsoft Excel to identify trends, patterns, and factors associated with aviation accidents. The findings are presented through an interactive dashboard that helps communicate key insights effectively.
